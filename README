@@ -1,0 +1,5 @@
+This is the oldest public release of Skia that I've been able to find.
+It predates the versions released with Android and Chrome.
+
+It comes from https://github.com/google/earthenterprise/tree/master/earth_enterprise/src/third_party/sgl
+
